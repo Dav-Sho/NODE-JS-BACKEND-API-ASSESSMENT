@@ -4,7 +4,7 @@
   "description": "nodejs assessment",
   "main": "server.js",
   "scripts": {
-    "dev": "node server.js"
+    "dev": "nodemon server.js"
   },
   "author": "David Sho",
   "license": "ISC",
